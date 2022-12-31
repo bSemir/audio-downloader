@@ -3,7 +3,7 @@ This is the simple ***python*** program that utilizes ***pytube*** module to dow
 How to run the program:
 - git clone https://github.com/bSemir/audio-downloader.git
 - python run.py
-- or just copy and paste the code :D
+- or just copy and paste the code in your IDE :D
 #
 After that, you can expect something like this:
 
