@@ -1,4 +1,4 @@
-This is the simple ***python*** program that utilizes ***pytube*** module to download and save audio files from Youtube.
+This is the simple ***python*** program that utilizes ***pytube*** module to download and save audio files from Youtube to PC.
 #
 How to run the program:
 - git clone https://github.com/bSemir/audio-downloader.git
